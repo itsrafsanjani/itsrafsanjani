@@ -2,9 +2,9 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsrafsanjani.itsrafsanjani)
 
-- 🔭 I am currently working as a Back End Developer.
-- 🌱 Currently learning : Python, InertiaJS.
-- 💬 Ask me about: PHP, Laravel.
+- 🔭 I am currently working as a Junior Software Engineer at [Codeshaper](https://codeshaper.net/).
+- 🌱 Currently learning : Node.js, Express.js, TypeORM etc.
+- 💬 Ask me about: PHP, Laravel, Vue.
 
 ### Tools I'm Currently Using:
 
@@ -32,6 +32,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ![Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=itsrafsanjani&count_private=true)
 
