@@ -2,8 +2,8 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=itsrafsanjani.itsrafsanjani)
 
-- 🔭 I am currently working as a Junior Software Engineer at [Codeshaper](https://codeshaper.net/).
-- 🌱 Currently learning : Node.js, Express.js, TypeORM etc.
+- 🔭 I am currently working as a Software Engineer at [weDevs](https://wedevs.com/).
+- 🌱 Currently learning : System Design.
 - 💬 Ask me about: PHP, Laravel, Vue, React.
 
 ### Tools I'm Currently Using:
